@@ -5,7 +5,7 @@
 
 ### 準備
 
-フリーのFXレート配信サイト「histdata.com」へアクセスし、ASCII M1データをダウンロード&解凍して好きなディレクトリにまとめて突っ込んでおきます。
+フリーのFXレート配信サイト「histdata.com」(https://www.histdata.com)へアクセスし、ASCII M1データをダウンロード&解凍して好きなディレクトリにまとめて突っ込んでおきます。
 
 ```
 tadosking@MacBook-Pro-2 sample_data % ls /Users/tadosking/dev/fin/histdata/sample_data 
