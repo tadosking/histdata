@@ -1,0 +1,55 @@
+histdata_dir : '/where/you/downloaded/files/'
+
+timeframes :
+  1w : 
+    unit : weeks
+    amount : 1
+    origin : 2023-01-01 17:00   # at N.Y time
+  1d : 
+    unit : days
+    amount : 1
+    origin : 2023-01-01 17:00
+  12h : 
+    unit : hours
+    amount : 12
+    origin : 2023-01-01 17:00
+  8h : 
+    unit : hours
+    amount : 8
+    origin : 2023-01-01 17:00
+  6h : 
+    unit : hours
+    amount : 6
+    origin : 2023-01-01 17:00
+  4h : 
+    unit : hours
+    amount : 4
+    origin : 2023-01-01 17:00
+  3h : 
+    unit : hours
+    amount : 3
+    origin : 2023-01-01 17:00
+  2h : 
+    unit : hours
+    amount : 2
+    origin : 2023-01-01 17:00
+  1h : 
+    unit : hours
+    amount : 1
+    origin : 2023-01-01 17:00
+  30min : 
+    unit : minutes
+    amount : 30
+    origin : 2023-01-01 17:00
+  15min : 
+    unit : minutes
+    amount : 15
+    origin : 2023-01-01 17:00
+  5min : 
+    unit : minutes
+    amount : 5
+    origin : 2023-01-01 17:00
+  1min : 
+    unit : minutes
+    amount : 1
+    origin : 2023-01-01 17:00
